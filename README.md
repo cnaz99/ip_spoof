@@ -15,3 +15,4 @@ In the original socket broker written in C, the main principles are as follows:
 3.Construct the packet
 4.Send packets
 5.Handle errors and exceptions
+// Only ICMP is supported
